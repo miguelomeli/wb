@@ -1,0 +1,37 @@
+{
+  "name": "webservice-miguel",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt-nodejs": "0.0.3",
+    "body-parser": "^1.18.3",
+    "connect-multiparty": "^2.1.1",
+    "express": "^4.16.3",
+    "iyem": "^1.0.3",
+    "jwt-simple": "^0.5.1",
+    "md5": "^2.2.1",
+    "moment": "^2.22.2",
+    "mongoose": "^5.2.12",
+    "mongoose-double": "0.0.1",
+    "mongoose-float": "^1.0.2",
+    "mongoose-pagination": "^1.0.0",
+    "mongoose-query-random": "^1.0.1",
+    "nodemailer": "^4.6.8",
+    "numberformat": "^1.0.3",
+    "numeral": "^2.0.6",
+    "path": "^0.12.7",
+    "request": "^2.88.0",
+    "request-promise": "^4.2.2",
+    "sjcl": "^1.0.7",
+    "speakeasy": "^2.0.0",
+    "strtotime": "^1.0.0",
+    "uuid": "^3.3.2",
+    "ws": "^6.0.0"
+  }
+}
